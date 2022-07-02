@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px 0px;
+    margin: -8px;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+nav img {
+    filter: invert();
+    width: 40px;
+}
+.cheats{
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    margin: auto;
+}
